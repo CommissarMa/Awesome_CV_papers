@@ -1,4 +1,5 @@
 # [ACMMM2019 Draft] A Modality Invariant Adversarial Network: Person Re-Identification From Virtuality to Reality
+note: please use Chrome plugin 'MathJax Plugin for Github' in Chrome Web browser to avoid the error visualization of equation.
 
 ## Purpose of the papar
 Given one person's sketch, then we can re-id this person in other cameras. As shown in the following picture:  
@@ -14,3 +15,13 @@ The other is the adversarial loss $L_{adv}$.
 ![equation5](./equation5.jpg)  
 And the whole loss is $L_G={\alpha}L_{class}+(-{\beta}L_{adv})$.
 Finally, we can train this nerual network in the manner of end-to-end.
+
+## Two Data Augmentation way
++ Unbalance num of samples in different categories:  
+we find the max number $p$ to set the target expanded number, then make up the insufficient sequence of certain pedestrians by copying the original images. 
++ Style Transformation:  
+use CycleGAN to transfer the real image to sketch-style-image.
+
+## Proposed New Dataset
+Paper use 'MeituXiuXiu' software to construct the dataset.  
+![dataset](./dataset.jpg) 
