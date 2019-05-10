@@ -12,6 +12,7 @@
 ## 人脸检测(Face Detection)
 
 ## 行为识别(Action Recognition)
+[[论文]](./Action_Recognition/action_recognition_readme.md)
 
 ## 行人重识别(Re-ID)
 [[论文]](./Re-ID/re_id_readme.md)
