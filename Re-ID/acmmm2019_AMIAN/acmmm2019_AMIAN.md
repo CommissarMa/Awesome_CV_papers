@@ -13,7 +13,7 @@ Then we use two loss to constrain the Back-propagation.
 One is the recognition loss $L_{label}$, which is a cross-entropy function of $c^1,c^2,...,c^n$ with its ground-truth labels.
 The other is the adversarial loss $L_{adv}$.  
 ![equation5](./equation5.jpg) 
-$$ {L_{adv}}={-{\frac{1}{n}}}{\sum_{i=1}^n}{({m^i_b}{\cdot}{logD}{({\hat{a^i}}{;}{{\theta}_D})})}$$
+$$ {L_{adv}}={-{\frac{1}{n}}}{\sum_{i=1}^n}{({m^i_a}{\cdot}{logD}{({\hat{a^i}}{;}{{\theta}_D})}{+}{({m^i_b}{\cdot}{log}{(1-D)}{({\hat{b^i}}{;}{{\theta}_D})})})}$$
 
 <!--$$L_{adv}=-{\frac 1 n} \sum_{i=1}^n ({m_a^i}\cdot log{D({\hat{a}^i;{\theta}_D})}+{m_b^i}\cdot log(1-D({\hat{b}^i;{\theta}_D})))$$  
 And the whole loss is $L_G={\alpha}L_{class}+(-{\beta}L_{adv})$.-->
