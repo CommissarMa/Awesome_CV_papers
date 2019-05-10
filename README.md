@@ -1,16 +1,16 @@
 # Awesome_CV_papers
-The papers I read and my comprehension about them.
+读过的计算机视觉论文以及文献总结汇报
 
-## Crowd Counting
-[[papers]](./Crowd_Counting/crowd_counting_readme.md)
+## 群体计数(Crowd Counting)
+[[论文]](./Crowd_Counting/crowd_counting_readme.md)
 
-## Style Tranfer
+## 风格迁移(Style Tranfer)
 
-## Object Detection
+## 目标检测(Object Detection)
 
-## Face Detection
+## 人脸检测(Face Detection)
 
-## Action Recognition
+## 行为识别(Action Recognition)
 
-## Re-ID
-[[papers]](./Re-ID/re_id_readme.md)
+## 行人重识别(Re-ID)
+[[论文]](./Re-ID/re_id_readme.md)
