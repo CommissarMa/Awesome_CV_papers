@@ -7,6 +7,7 @@
 ## 风格迁移(Style Tranfer)
 
 ## 目标检测(Object Detection)
+[[论文]](./Object_Detection/object_detection_readme.md)
 
 ## 人脸检测(Face Detection)
 
