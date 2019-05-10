@@ -12,9 +12,10 @@ Through G, we think that ${\hat{a^1}},{\hat{a^2}},...,{\hat{a^n}}$ are in the sa
 Then we use two loss to constrain the Back-propagation.  
 One is the recognition loss $L_{label}$, which is a cross-entropy function of $c^1,c^2,...,c^n$ with its ground-truth labels.
 The other is the adversarial loss $L_{adv}$.  
-$$L_{adv}=-{\frac 1 n} \sum_{i=1}^n ({m_a^i}\cdot log{D({\hat{a}^i;{\theta}_D})}+{m_b^i}\cdot log(1-D({\hat{b}^i;{\theta}_D})))$$  
-And the whole loss is $L_G={\alpha}L_{class}+(-{\beta}L_{adv})$.
-Finally, we can train this nerual network in the manner of end-to-end.
+![equation5](./equation5.jpg) 
+<!--$$L_{adv}=-{\frac 1 n} \sum_{i=1}^n ({m_a^i}\cdot log{D({\hat{a}^i;{\theta}_D})}+{m_b^i}\cdot log(1-D({\hat{b}^i;{\theta}_D})))$$  
+And the whole loss is $L_G={\alpha}L_{class}+(-{\beta}L_{adv})$.-->
+Finally, we can train this neural network in the manner of end-to-end.
 
 ## Two Data Augmentation way
 + Unbalance num of samples in different categories:  
