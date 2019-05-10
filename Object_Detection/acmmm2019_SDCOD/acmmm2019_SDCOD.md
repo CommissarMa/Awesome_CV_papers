@@ -19,4 +19,4 @@
 
 损失函数的改进：  
 + 传统交叉熵损失：${L_{CE}}=-(y{\cdot}log(p)+(1-y){\cdot}log(1-p))$
-+ 改进的带权重的交叉熵损失：${L_{{\omega}-CE}}=-({e^{{-\beta}{\omega}_i}}y{\cdot}log(p)+(1-y){\cdot}log(1-p))$
++ 改进的带权重的交叉熵损失：${L_{{\omega}-CE}}=-({e^{{-\beta}{\mathbb{{\omega}_i}}}}y{\cdot}log(p)+(1-y){\cdot}log(1-p))$
