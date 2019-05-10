@@ -20,3 +20,7 @@
 损失函数的改进：  
 + 传统交叉熵损失：${L_{CE}}=-(y{\cdot}log(p)+(1-y){\cdot}log(1-p))$
 + 改进的带权重的交叉熵损失：${L_{{\omega}-CE}}=-({e^{{-\beta}{\mathbb{{\omega}_i}}}}y{\cdot}log(p)+{(1-e^{{-\beta}{\mathbb{{\omega}_i}}})}(1-y){\cdot}log(1-p))$
+
+## 数据集
+作者新提出了一个不同奶茶商品的数据集。包含13个类别，共16919张图像。
+![dataset](./dataset.jpg)
