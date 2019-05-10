@@ -12,3 +12,5 @@ Re-id的任务是判断两幅图像中的人是否为同一个人。但该任务
 
 # Paper list and Comprehension
 [ACMMM2019 Draft] A Modality Invariant Adversarial Network: Person Re-Identification From Virtuality to Reality [[理解]](./acmmm2019_AMIAN/acmmm2019_AMIAN.md) 
+
+[ACMMM2019 Draft] Dual-alignment Feature Embedding for Cross-modality Person Re-identification [[理解]](./acmmm2019_DFECP/acmmm2019_DFECP.md) 
