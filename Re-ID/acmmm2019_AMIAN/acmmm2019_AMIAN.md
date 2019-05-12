@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # [ACMMM2019 Draft] A Modality Invariant Adversarial Network: Person Re-Identification From Virtuality to Reality
 + 注意：请使用Chrome浏览器并安装Chrome插件'MathJax Plugin for Github'
 
@@ -24,4 +23,5 @@ $$ {L_{adv}}={-{\frac{1}{n}}}{\sum_{i=1}^n}{({m^i_a}{\cdot}{logD}{({\hat{a^i}}{;
 
 ## 提出的新数据集
 论文使用 '美图秀秀' 软件来构造数据集。使用到的是'美图秀秀'软件里的真实图像转素描图像的功能。数据集部分展示如下：  
-![dataset](./dataset.jpg) 
+![dataset](./dataset.jpg)  
+[](https://latex.codecogs.com/gif.latex?a^2)
