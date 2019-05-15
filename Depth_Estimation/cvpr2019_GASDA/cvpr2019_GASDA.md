@@ -1,5 +1,7 @@
 # [CVPR2019] Geometry-Aware Symmetric Domain Adaptation for Monocular Depth Estimation
 ### [作者开源代码地址](https://github.com/sshan-zhao/GASDA)
++ 注意：请使用Chrome浏览器并安装Chrome插件'MathJax Plugin for Github'
+
 ## 本文目标
 利用合成数据(合成图像及其ground truth深度图)训练模型，并使用该模型在真实图像上进行深度估计。下图是真实图像和合成图像及对应深度图的展示：  
 ![purpose](./purpose.jpg)
