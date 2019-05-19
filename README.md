@@ -3,7 +3,7 @@
 
 ## 群体计数(Crowd Counting)[[论文列表]](./Crowd_Counting/crowd_counting_readme.md)
 
-## 语义分割(Semantic Segmentation)[[论文列表]](./Semantic Segmentation/semantic segmentation_readme.md)
+## 语义分割(Semantic Segmentation)[[论文列表]](./Semantic_Segmentation/semantic_segmentation_readme.md)
 
 ## 深度估计(Depth Estimation)[[论文列表]](./Depth_Estimation/depth_estimation_readme.md)
 
