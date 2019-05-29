@@ -5,4 +5,5 @@
 [CVPR2019] ADCrowdNet: An Attention-Injective Deformable Convolutional Network for Crowd Understanding
  [[理解]](./cvpr2019_ADCrowdNet/cvpr2019_ADCrowdNet.md)  
 [CVPR2019] Context-Aware Crowd Counting [[理解]](./cvpr2019_CAN/cvpr2019_CAN.md)  
-[CVPR2019] Learning from Synthetic Data for Crowd Counting in the Wild [[理解]](./cvpr2019_GCC/cvpr2019_GCC.md) 
+[CVPR2019] Learning from Synthetic Data for Crowd Counting in the Wild [[理解]](./cvpr2019_GCC/cvpr2019_GCC.md)  
+[CVPR2019] Point in, Box out: Beyond Counting Persons in Crowds [[理解]](./cvpr2019_PSDDN/cvpr2019_PSDDN.md)  
