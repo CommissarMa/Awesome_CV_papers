@@ -15,7 +15,7 @@
 [CVPR2018] Divide and Grow: Capturing Huge Diversity in Crowd Images with Incrementally Growing CNN  
 [CVPR2018] Crowd Counting with Deep Negative Correlation Learning  
 [CVPR2018] Leveraging Unlabeled Data for Crowd Counting by Learning to Rank  
-[ECCV2018] Where are the Blobs Counting by Localization with Point Supervision
+[ECCV2018] Where are the Blobs Counting by Localization with Point Supervision  
 [TIP-2018] Body Structure Aware Deep Crowd Counting  
 [TCVST2018] People Counting in Dense Crowd Images using Sparse Head Detections  
 [CVPR2017] Switching Convolutional Neural Network for Crowd Counting  
