@@ -2,6 +2,7 @@
 如果你想从零开始了解群体计数，可以点击我的项目：[[从零开始群体计数]](https://github.com/CommissarMa/Crowd_counting_from_scratch)
 
 # 论文阅读及理解
+[ICME2019] CODA: Counting Objects via Scale-Aware Adversarial Density Adaption[[理解]](./icme2019_CODA/icme2019_CODA.md)  
 [CVPR2019] Crowd Counting and Density Estimation by Trellis Encoder-Decoder Networks  
 [CVPR2019] ADCrowdNet: An Attention-Injective Deformable Convolutional Network for Crowd Understanding
  [[理解]](./cvpr2019_ADCrowdNet/cvpr2019_ADCrowdNet.md)  
