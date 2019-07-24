@@ -18,3 +18,5 @@
 ## 行人重识别(Re-ID)[[论文列表]](./Re-ID/re_id_readme.md)  
 
 ## 行人行为理解(People behavior understanding)[[论文列表]](./People_Behavior_Understanding/people_behavior_understanding.md)  
+
+## 文本检测(Text Detection)[[论文列表]](./Text_Detection/td_readme.md)
