@@ -4,7 +4,7 @@
 目前代码中有测试代码及训练好的模型，但还没有训练部分的代码。
 
 ## 效果
-<img width="1000" alt="teaser" src="./figures/craft_example.gif">
+<img width="1000" alt="teaser" src="./craft_example.gif">
 
 ## 动机
 基于神经网络的文本检测方法已经展现出了强大的能力，但之前的方法受限于word-level边界框，不能很好地识别任意形状的文本。因此本文提出了一种character-level的新方法来解决这一问题。  
