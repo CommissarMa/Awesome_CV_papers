@@ -11,7 +11,7 @@
 
 ## 目标检测(Object Detection)[[论文列表]](./Object_Detection/object_detection_readme.md)
 
-## 人脸检测(Face Detection)
+## 小人脸检测(Face Detection Small)[[论文列表]](./Face_Detection_Small/small_face.md)
 
 ## 行为识别(Action Recognition)[[论文列表]](./Action_Recognition/action_recognition_readme.md)
 
