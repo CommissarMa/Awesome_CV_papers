@@ -5,3 +5,4 @@
 [ACMMM2019 Draft] Small and Dense Commodity Object Detection with Multi-Receptive Field Attention [[理解]](./acmmm2019_SDCOD/acmmm2019_SDCOD.md)  
 [CVPR2017] Feature pyramid networks for object detection (FPN) [[理解]](./cvpr2017_FPN/cvpr2017_FPN.md)  
 [ECCV2018] CornerNet: Detecting Objects as Paired Keypoints [[理解]](./eccv2018_CornerNet/eccv2018_CornerNet.md)
+[Arxiv2019] CornerNet-Lite: Efficient Keypoint Based Object Detection [[理解]](./arxiv2019_cornerlite/arxiv2019_cornerlite.md)
