@@ -19,4 +19,4 @@
 
 ## 行人行为理解(People behavior understanding)[[论文列表]](./People_Behavior_Understanding/people_behavior_understanding.md)  
 
-## 文本检测(Text Detection)[[论文列表]](./Text_Detection/td_readme.md)
+## 文本检测识别(Text Related)[[论文列表]](./Text_Related/td_readme.md)
